@@ -1,9 +1,0 @@
-Quadruple
-OP	O1	O2	RES
-*	c	d	t1
-*	b	t1	t2
-+	a	t2	t3
-+	t3	e	t4
-*	a	b	t5
-*	c	d	t6
-+	t5	t6	t7
