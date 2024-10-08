@@ -1,7 +1,0 @@
-float pi=20/5;
-void main()
-{
-	float c;
-	c=2*pi;
-}
-
