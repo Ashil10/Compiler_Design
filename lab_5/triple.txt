@@ -1,9 +1,0 @@
-Triple
-IN	OP	O1	O2
-1	^	c	d
-2	*	b	1
-3	+	a	2
-4	+	3	e
-5	*	a	b
-6	*	c	d
-7	+	5	6
