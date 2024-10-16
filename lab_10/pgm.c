@@ -297,6 +297,12 @@ int main()
 	printf("\tFinal?\n");
 	for(int i=0;i<rescount;i++)
 	{
+	        if(i==0)
+	          printf("Start state ");
+	        else if(i+1==rescount)
+	          printf("Final State ");
+	        else
+	          printf("            ");
 		printf("%c\t",('A'+i));
 		for(int j=0;j<tn+1;j++)
 		{
@@ -307,24 +313,23 @@ int main()
 					printf("YES\n");
 				}
 				else
-					printf("NO\n");
+					printf("N0\n");
 			}
 			else if(strcmp(restable[i][j],"")==0||strcmp(restable[i][j],"-")==0)
 				printf("NULL\t");
 			else
-				printf("%c\t",('A'+i));
-		}
-	}
-
-	// Printing start and end states
-	printf("\nStart State: A\n");
-	printf("Final States: ");
-	for (int i = 0; i < rescount; i++) {
-		if (resfinal[i] == 1) {
-			printf("%c ", ('A' + i));
+			{
+				for(int k=0;k<rescount;k++)
+				{
+					if(strcmp(resStates[k],restable[i][j])==0)
+					{
+		      
+						printf("%c\t",('A'+k));
+						break;
+					}
+				}
+			}	
 		}
 	}
 	printf("\n");
-
-	return 0;
 }
