@@ -7,9 +7,9 @@ inv [0-9][a-zA-Z0-9]*
 ident [a-zA-Z][a-zA-Z0-9]*
 lite2 \"[a-zA-Z][a-zA-Z0-9]*\"
 rel <=|<|>=|>
-key int|void|char|if
+key int|void|char|if|main|printf
 %%
-{lite} {printf("%s\t%i\tLiteral\n",yytext,no);}
+{lite} {printf("%s\t%i\tInteger\n",yytext,no);}
 {lite2} { char aa[10],bb[10];
 	strcpy(aa,yytext);
 	for(int i=1;i<strlen(aa)-1;i++){
