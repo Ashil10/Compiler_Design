@@ -10,5 +10,4 @@
 
 ### Experiment 12:[Implementation of simple calculator using YACC that performs +, –, * and / arithmetic operation](https://github.com/Ashil10/Compiler_Design/tree/cycle2/lab_12)
 
-### Practice:[Word Count and Character Count using Lex Tool](https://github.com/Ashil10/Compiler_Design/tree/cycle2/lab_13)
 
