@@ -1,7 +1,0 @@
-float pi=4.000000;
-void main()
-{
-	float c;
-	c=8.000000;
-}
-
