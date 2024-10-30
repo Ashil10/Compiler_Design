@@ -8,7 +8,7 @@
 
 ### Practice 3:[Lex Program to find out total number of vowels and consonants from a given input string](https://github.com/Ashil10/Compiler_Design/tree/main/practice/practice_3)
 
-### Practice 4:[Write program to minimize any given DFA](https://github.com/Ashil10/Compiler_Design/main/practice/practice_4)
+### Practice 4:[Write program to minimize any given DFA](https://github.com/Ashil10/Compiler_Design/tree/practice/practice_4)
 
 ### Practice 5:[Write a program to convert Epsilon NFA to NFA without Epsilon](https://github.com/Ashil10/Compiler_Design/tree/main/practice/practice_5)
 
