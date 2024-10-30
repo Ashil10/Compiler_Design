@@ -4,13 +4,13 @@
 
 ### Practice 1:[Lex Program to display the number of words and characters](https://github.com/Ashil10/Compiler_Design/tree/main/practice/practice_1)
 
-### Experiment 2:[Develop an operator precedence parser for the grammar below E → E + E / E - E / E * E / E / E / E ^ E / ( E ) / id](https://github.com/Ashil10/Compiler_Design/tree/cycle1/lab_2)
+### Practice 2:[Lex Program to Convert a Substring abc to ABC from a given input string](https://github.com/Ashil10/Compiler_Design/tree/main/practice/practice_2)
 
-### Experiment 3:[Construct a recursive descent parser for an expression according to the grammar below.E → TE’ E’ → +TE’/- TE’/ε T → FT’ T’ → *FT’/ /FT’/ ε F → (E) / id](https://github.com/Ashil10/Compiler_Design/tree/cycle1/lab_3)
+### Practice 3:[Lex Program to find out total number of vowels and consonants from a given input string](https://github.com/Ashil10/Compiler_Design/tree/main/practice/practice_3)
 
-### Experiment 4:[Write program to find First and Follow of any given grammar.](https://github.com/Ashil10/Compiler_Design/tree/cycle1/lab_4)
+### Practice 4:[Write program to minimize any given DFA](https://github.com/Ashil10/Compiler_Design/main/practice/practice_4)
 
-### Experiment 5:[Implement Intermediate code generation for a given set of arithmetic expressions in triple and quadruple format](https://github.com/Ashil10/Compiler_Design/tree/cycle1/lab_5)
+### Practice 5:[Write a program to convert Epsilon NFA to NFA without Epsilon](https://github.com/Ashil10/Compiler_Design/tree/main/practice/practice_5)
 
 
 
