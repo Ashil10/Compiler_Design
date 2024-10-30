@@ -1,8 +1,0 @@
-Three Address
-t1 = c ^ d
-t2 = b * t1
-t3 = a + t2
-t4 = t3 + e
-t5 = a * b
-t6 = c * d
-t7 = t5 + t6
