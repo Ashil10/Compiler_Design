@@ -2,7 +2,7 @@
 
 ## PRACTICE
 
-### Experiment 1:[Recognize the Tokens for a Given C Program](https://github.com/Ashil10/Compiler_Design/tree/main/cycle1)
+### Practice 1:[Lex Program to display the number of words and characters](https://github.com/Ashil10/Compiler_Design/tree/main/practice/practice_1)
 
 ### Experiment 2:[Develop an operator precedence parser for the grammar below E → E + E / E - E / E * E / E / E / E ^ E / ( E ) / id](https://github.com/Ashil10/Compiler_Design/tree/cycle1/lab_2)
 
